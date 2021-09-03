@@ -1,4 +1,4 @@
 const myFunction = () => {
-    const divide = (x, y) => x / y;
-    return divide(1, 1); 
+    const subtract = (x, y) => x - y;
+    return subtract(1, 1); 
 }
